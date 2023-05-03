@@ -1,0 +1,37 @@
+.how-you-doing {
+  text-align: center;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.very_happy_face {
+  display: inline-flex;
+  flex-direction: row;
+  width: 10%;
+  height: 10%;
+}
+
+.happy_face{
+  display: inline-flex;
+  flex-direction: row;
+  width: 10%;
+  height: 10%;
+}
+
+.neutral_face {
+  display: inline-flex;
+  width: 10%;
+  height: 10%;
+}
+
+.unhappy_face {
+  display: inline-flex;
+  width: 10%;
+  height: 10%;
+}
+
+.very_unhappy_face {
+  display: inline-flex;
+  width: 10%;
+  height: 10%;
+}
